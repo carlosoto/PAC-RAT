@@ -1,0 +1,17 @@
+Nuestro juego se llamara “Pac-Rat”, que consistirá de cuatros nivel, donde el jugador
+
+deberá coger todos los quesos del mapa en un tiempo máximo de dos minutos e ira 
+
+disminuyendo a medida que aumente la dificultad de los niveles, y al no poder cumplir 
+
+con la meta del nivel, se le quitara una vida y se reiniciara el nivel, si no posee mas vidas, 
+
+aparecerá “Game Over”.
+
+Habrá enemigos, como las ratas que estarán activas durante el juego y al entrar en 
+
+contacto con el jugador causara su muerte, a si mismo, habrán gatos que impedirán el 
+
+paso de la rata por ciertos caminos, dificultando así su misión.
+
+Primer nivel: 5 quesos de 200, 3 quesos de 500, cuatro relojes, 1 gato y 2 ratas 
